@@ -1,0 +1,27 @@
+{
+  "name": "react-is",
+  "version": "16.13.1-0",
+  "description": "ESM version of react-is for development",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/startupjs/react-is.git"
+  },
+  "keywords": [
+    "react-is",
+    "esm",
+    "react",
+    "es",
+    "modules"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/startupjs/react-is/issues"
+  },
+  "homepage": "https://github.com/startupjs/react-is#readme"
+}
