@@ -1,6 +1,6 @@
 {
   "name": "@startupjs/react-is",
-  "version": "16.13.1-0",
+  "version": "16.13.1-1",
   "description": "ESM version of react-is for development",
   "main": "index.js",
   "type": "module",
